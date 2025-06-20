@@ -74,7 +74,7 @@ Tech stack: **React, TypeScript, TailwindCSS, Shadcn UI, Zod, React Hook Form, V
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilhermebuenoreis/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-bueno-reis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:guilhermebuenoreis@gmail.com" target="_blank">
