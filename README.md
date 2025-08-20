@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Guilherme+Reis+%7C+CEO+%26+CTO+@+Axon;Full-Stack+Developer;Tech+Enthusiast+%F0%9F%94%A5;Lover+of+Clean+Code+%26+Coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Guilherme+Reis+%7C+CEO+%26+CTO+@+Narvus;Full-Stack+Developer;Tech+Enthusiast+%F0%9F%94%A5;Lover+of+Clean+Code+%26+Coffee+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEO%20%26%20CTO-Axon-%2300FFC2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CEO%20%26%20CTO-Narvus-%2300FFC2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full--Stack-JS%2FTS-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre mim
 
 <p align="center">
-  Desenvolvedor <strong>Full-Stack</strong>, atualmente liderando o desenvolvimento e visão técnica da <strong>Axon</strong>, uma futura startup com foco em acessibilidade, neurodivergência e inteligência artificial.
+  Desenvolvedor <strong>Full-Stack</strong>, atualmente liderando o desenvolvimento e visão técnica da <strong>Narvus</strong>, uma futura startup com foco em acessibilidade, neurodivergência e inteligência artificial.
   <br /><br />
   🎯 Apaixonado por criar produtos úteis, acessíveis e performáticos.<br />
   🚀 Explorando tecnologias modernas como <strong>React, Fastify, PostgreSQL e Drizzle ORM</strong>.<br />
