@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Guilherme+Reis;CEO+%26+CTO+@+Narvus;Full-Stack+Developer;Apaixonado+por+Tecnologia+🚀" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Guilherme+Reis;CEO+%26+CTO+@+Narvus;Full-Stack+Developer;Apaixonado+por+Tecnologia+🚀" alt="Typing SVG" />
   <br>
   <p align="center">
     <i>"Transformando ideias em código, e código em impacto."</i>
@@ -27,13 +27,13 @@ Desenvolvedor Full-Stack e líder técnico na **Narvus**, onde trabalho para cri
 
 <p align="center">
   <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,shadcn,vite" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,shadcn,vite,figma" />
   <br><br>
   <b>Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,docker,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,drizzle,prisma,docker" />
   <br><br>
-  <b>Design & DevOps</b><br>
-  <img src="https://skillicons.dev/icons?i=figma,git,aws,postman,vscode" />
+  <b>Ferramentas & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=git,aws,postman,vscode" />
 </p>
 
 ---
@@ -50,14 +50,14 @@ Desenvolvedor Full-Stack e líder técnico na **Narvus**, onde trabalho para cri
 
 ---
 
-### **🚀 Projetos Principais**
+### **🚀 Projetos Principais (Públicos)**
 
 <div align="center">
-  <a href="https://github.com/guilhermebuenoreis/onec-backend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=onec-backend&theme=transparent&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
+  <a href="https://github.com/guilhermebuenoreis/coffee-delivery" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=coffee-delivery&theme=transparent&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
-  <a href="https://github.com/guilhermebuenoreis/onec-freelancer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=onec-freelancer&theme=transparent&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
+  <a href="https://github.com/guilhermebuenoreis/github-blog" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=github-blog&theme=transparent&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
 </div>
 
