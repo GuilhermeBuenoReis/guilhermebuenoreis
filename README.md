@@ -37,11 +37,11 @@ Desenvolvedor Full-Stack e líder técnico na **Narvus**, onde trabalho para cri
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,shadcn,vite,figma" /><br>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,vite,figma" /><br>
       <sub>TypeScript, JavaScript, React, Next.js, Tailwind CSS, ShadCN/UI, Vite, Figma</sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,drizzle,prisma,docker" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,postgres,drizzle,prisma,docker" /><br>
       <sub>Node.js, Fastify, PostgreSQL, Drizzle ORM, Prisma, Docker</sub>
     </td>
     <td align="center">
@@ -74,10 +74,3 @@ Desenvolvedor Full-Stack e líder técnico na **Narvus**, onde trabalho para cri
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=github-blog&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
 </div>
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <img alt="Contribuições do GitHub" src="dist/github-snake.svg" />
-</picture>
