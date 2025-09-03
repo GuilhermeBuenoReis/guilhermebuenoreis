@@ -74,3 +74,10 @@ Desenvolvedor Full-Stack e líder técnico na **Narvus**, onde trabalho para cri
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=github-blog&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
 </div>
+
+<br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <img alt="Contribuições do GitHub" src="dist/github-snake.svg" />
+</picture>
