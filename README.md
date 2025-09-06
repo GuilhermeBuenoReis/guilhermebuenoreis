@@ -1,59 +1,53 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFC2&center=true&vCenter=true&width=435&lines=Guilherme+Reis;CEO+%26+CTO+@+Narvus;Full-Stack+Developer;Apaixonado+por+Tecnologia+🚀" alt="Typing SVG" />
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFC2&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+Guilherme+Reis!;CEO+%26+CTO+%40+Narvus;Fullstack+Developer+🚀;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
   <i>"Transformando ideias em código, e código em impacto."</i>
 </div>
 
+<br/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-bueno-reis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:guilhermebuenoreis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/guilherme-bueno-reis/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:guilhermebuenoreis@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GuilhermeBuenoReis" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-151515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### **👨‍💻 Sobre Mim**
+## 👨‍💻 Sobre Mim  
 
-Desenvolvedor Full-Stack e líder técnico na **Narvus**, onde trabalho para criar soluções focadas em acessibilidade e neurodivergência utilizando inteligência artificial. Minha paixão é construir produtos digitais que não apenas funcionam, mas que também geram um impacto positivo e significativo na vida das pessoas.
+Sou **Desenvolvedor Fullstack** e **líder técnico** na **Narvus**, criando soluções que unem **acessibilidade, IA e impacto social**.  
+Minha paixão é transformar ideias em produtos digitais que realmente fazem a diferença.  
 
-- 🔭 Atualmente liderando o desenvolvimento de um ecossistema de produtos com **React**, **Fastify** e **PostgreSQL**.
-- 🌱 Focado em aprofundar meus conhecimentos em **Arquitetura de Microsserviços** e **Computação em Nuvem (AWS)**.
-- 💬 Vamos conversar sobre **código limpo, design de software, startups e tecnologia com propósito**.
-
----
-
-### **🛠️ Minhas Ferramentas**
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <b>Frontend</b>
-    </td>
-    <td align="center" width="180">
-      <b>Backend</b>
-    </td>
-    <td align="center" width="180">
-      <b>Ferramentas & DevOps</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,vite,figma" /><br>
-      <sub>TypeScript, JavaScript, React, Next.js, Tailwind CSS, ShadCN/UI, Vite, Figma</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,postgres,drizzle,prisma,docker" /><br>
-      <sub>Node.js, Fastify, PostgreSQL, Drizzle ORM, Prisma, Docker</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,githubactions,aws,postman,vscode" /><br>
-      <sub>Git, GitHub Actions, AWS, Postman, VS Code</sub>
-    </td>
-  </tr>
-</table>
+- 🚀 Atualmente lidero o desenvolvimento de um **ecossistema de produtos** com **React, Fastify e PostgreSQL**  
+- 🌱 Estudando **Arquitetura de Microsserviços** e **Cloud (AWS)**  
+- 💡 Curto trocar ideia sobre **código limpo, startups, IA e tecnologia com propósito**  
 
 ---
 
-### **📊 Estatísticas do GitHub**
+## 🛠️ Minhas Stacks  
+
+<div align="center">
+
+| **Frontend** | **Backend** | **DevOps & Tools** |
+|--------------|-------------|---------------------|
+| <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,figma" height="45"/> | <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,docker" height="45"/> | <img src="https://skillicons.dev/icons?i=git,githubactions,aws,vscode" height="45"/> |
+
+</div>
+
+---
+
+## 📊 Estatísticas  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebuenoreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515" />
@@ -64,7 +58,7 @@ Desenvolvedor Full-Stack e líder técnico na **Narvus**, onde trabalho para cri
 
 ---
 
-### **🚀 Projetos em Destaque**
+## 🚀 Projetos em Destaque  
 
 <div align="center">
   <a href="https://github.com/guilhermebuenoreis/coffee-delivery" target="_blank">
