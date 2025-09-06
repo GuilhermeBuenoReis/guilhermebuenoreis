@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFC2&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+Guilherme+Reis!;CEO+%26+CTO+%40+Narvus;Fullstack+Developer+🚀;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFC2&center=true&vCenter=true&width=600&lines=Guilherme+Reis" alt="Typing SVG" />
 </div>
 
 <br/>
