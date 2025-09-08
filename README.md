@@ -61,10 +61,10 @@ Minha paixão é transformar ideias em produtos digitais que realmente fazem a d
 ## 🚀 Projetos em Destaque  
 
 <div align="center">
-  <a href="https://github.com/guilhermebuenoreis/coffee-delivery" target="_blank">
+  <a href="https://github.com/guilhermebuenoreis/onec-backend" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=coffee-delivery&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
-  <a href="https://github.com/guilhermebuenoreis/github-blog" target="_blank">
+  <a href="https://github.com/guilhermebuenoreis/Onec-frellancer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=github-blog&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
 </div>
