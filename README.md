@@ -26,16 +26,17 @@
 
 ## 👨‍💻 Sobre Mim  
 
-Sou **Desenvolvedor Fullstack** e **líder técnico** na **Narvus**, criando soluções que unem **acessibilidade, IA e impacto social**.  
-Minha paixão é transformar ideias em produtos digitais que realmente fazem a diferença.  
+Sou **Desenvolvedor Fullstack** e **líder técnico** na **Narvus**, criando soluções digitais que unem **acessibilidade, IA e impacto social**.  
+Minha especialidade é transformar problemas complexos em interfaces e sistemas simples, rápidos e funcionais.
 
-- 🚀 Atualmente lidero o desenvolvimento de um **ecossistema de produtos** com **React, Fastify e PostgreSQL**  
-- 🌱 Estudando **Arquitetura de Microsserviços** e **Cloud (AWS)**  
-- 💡 Curto trocar ideia sobre **código limpo, startups, IA e tecnologia com propósito**  
+- 🚀 Liderando um ecossistema com **React, Fastify, Drizzle e PostgreSQL**  
+- 🌩️ Estudando **Cloud (AWS)** e **Arquitetura de Microsserviços**  
+- 💬 Converso sobre **código limpo, startups e tecnologia que importa**  
+- 💡 Minha missão: **Impacto real através do software**  
 
 ---
 
-## 🛠️ Minhas Stacks  
+## 🛠️ Minhas Stacks Favoritas  
 
 <div align="center">
 
@@ -47,13 +48,25 @@ Minha paixão é transformar ideias em produtos digitais que realmente fazem a d
 
 ---
 
-## 📊 Estatísticas  
+## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebuenoreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebuenoreis&layout=compact&langs_count=7&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermebuenoreis&theme=tokyonight&background=151515&fire=00FFC2&ring=00FFC2" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermebuenoreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebuenoreis&layout=compact&langs_count=7&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515" />
+</div>
+
+---
+
+## 🔥 Minhas Contribuições & Commits  
+
+<div align="center">
+
+### 🟦 Commit Graph  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermebuenoreis&theme=tokyo-night&bg_color=151515&color=00FFC2&line=00FFC2&point=00FFC2&area=true&hide_border=true"/>
+
+### 🐍 Snake Animation  
+<img src="https://raw.githubusercontent.com/guilhermebuenoreis/guilhermebuenoreis/output/snake.svg"/>
+
 </div>
 
 ---
@@ -68,3 +81,11 @@ Minha paixão é transformar ideias em produtos digitais que realmente fazem a d
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=Onec-frellancer&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
 </div>
+
+---
+
+## ✨ Sempre em Evolução  
+
+> Curioso, criativo e comprometido em construir o futuro através da tecnologia.  
+> Sinta-se à vontade para explorar meus repositórios e trocar uma ideia!
+
