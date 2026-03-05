@@ -51,8 +51,8 @@ Minha especialidade é transformar problemas complexos em interfaces e sistemas 
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermebuenoreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebuenoreis&layout=compact&langs_count=7&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBuenoReis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBuenoReis&layout=compact&langs_count=7&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
 </div>
 
 ---
@@ -62,10 +62,10 @@ Minha especialidade é transformar problemas complexos em interfaces e sistemas 
 <div align="center">
 
 ### 🟦 Commit Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermebuenoreis&theme=tokyo-night&bg_color=151515&color=00FFC2&line=00FFC2&point=00FFC2&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBuenoReis&theme=tokyo-night&bg_color=151515&color=00FFC2&line=00FFC2&point=00FFC2&area=true&hide_border=true"/>
 
 ### 🐍 Snake Animation  
-<img src="https://raw.githubusercontent.com/guilhermebuenoreis/guilhermebuenoreis/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/GuilhermeBuenoReis/GuilhermeBuenoReis/output/snake.svg"/>
 
 </div>
 
@@ -75,10 +75,10 @@ Minha especialidade é transformar problemas complexos em interfaces e sistemas 
 
 <div align="center">
   <a href="https://github.com/GuilhermeBuenoReis/onec-backend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=onec-backend&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=onec-backend&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
   </a>
   <a href="https://github.com/GuilhermeBuenoReis/Onec-frellancer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=Onec-frellancer&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=Onec-frellancer&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
   </a>
 </div>
 
@@ -88,4 +88,3 @@ Minha especialidade é transformar problemas complexos em interfaces e sistemas 
 
 > Curioso, criativo e comprometido em construir o futuro através da tecnologia.  
 > Sinta-se à vontade para explorar meus repositórios e trocar uma ideia!
-
