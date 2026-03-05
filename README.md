@@ -74,11 +74,11 @@ Minha especialidade é transformar problemas complexos em interfaces e sistemas 
 ## 🚀 Projetos em Destaque  
 
 <div align="center">
-  <a href="https://github.com/guilhermebuenoreis/onec-backend" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=onec-backend&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
+  <a href="https://github.com/GuilhermeBuenoReis/onec-backend" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=onec-backend&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
-  <a href="https://github.com/guilhermebuenoreis/Onec-frellancer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermebuenoreis&repo=Onec-frellancer&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
+  <a href="https://github.com/GuilhermeBuenoReis/Onec-frellancer" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=Onec-frellancer&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&icon_color=00FFC2" />
   </a>
 </div>
 
