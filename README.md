@@ -80,6 +80,18 @@ Minha especialidade é transformar problemas complexos em interfaces e sistemas 
   <a href="https://github.com/GuilhermeBuenoReis/Onec-frellancer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=Onec-frellancer&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
   </a>
+  <a href="https://github.com/GuilhermeBuenoReis/buenos_cakes_api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=buenos_cakes_api&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/GuilhermeBuenoReis/buenos_cakes_web" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=buenos_cakes_web&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/GuilhermeBuenoReis/Velan" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=Velan&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/GuilhermeBuenoReis/velan-mobile" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBuenoReis&repo=velan-mobile&theme=tokyonight&bg_color=151515&title_color=00FFC2&text_color=FFF&border_color=151515&cache_seconds=1800" />
+  </a>
 </div>
 
 ---
