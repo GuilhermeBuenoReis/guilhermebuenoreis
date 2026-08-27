@@ -1,93 +1,137 @@
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00FFC2&center=true&vCenter=true&width=680&lines=Guilherme+Reis;Desenvolvedor+Fullstack;Construindo+produtos+SaaS"
-    alt="Guilherme Reis, Desenvolvedor Fullstack"
-  />
+  <h1>Guilherme Reis</h1>
 
   <p>
-    Desenvolvedor Fullstack, líder técnico e cofundador da Anvero.
+    <strong>CTO & Co-Founder @ Anvero · Tech Lead @ Narvus · Software Engineer</strong>
   </p>
 
   <p>
-    Transformando problemas complexos em produtos digitais simples, rápidos e úteis.
+    Construindo produtos SaaS, sistemas empresariais e tecnologia orientada a problemas reais de negócio.
   </p>
 
   <p>
+    <a href="https://www.devguilhermebuenoreis.com.br/">
+      <img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
     <a href="https://www.linkedin.com/in/guilherme-bueno-reis/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
+      <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:guilhermebuenoreis@gmail.com">
-      <img
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Gmail"
-      />
-    </a>
-    <a href="https://github.com/GuilhermeBuenoReis">
-      <img
-        src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white"
-        alt="GitHub"
-      />
+      <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
 
 ---
 
-## Sobre mim
+## O que eu faço
 
-Sou **Desenvolvedor Fullstack**, líder técnico na **Narvus** e cofundador da **Anvero**.
+Atuo na interseção entre **engenharia, produto e negócio**.
 
-Trabalho na construção de produtos SaaS, sistemas empresariais e experiências digitais que combinam arquitetura bem estruturada, interfaces acessíveis e regras de negócio complexas.
+Como cofundador e CTO da **Anvero**, participo da definição do produto e lidero as decisões técnicas que transformam problemas operacionais em software utilizável, sustentável e pronto para evoluir.
 
-Minha atuação envolve desde a definição da arquitetura e modelagem do banco de dados até o desenvolvimento da interface, APIs, autenticação, testes, integração contínua e publicação em produção.
+Também atuo como líder técnico na **Narvus**, trabalhando na construção e evolução de produtos e sistemas com foco em qualidade de engenharia, arquitetura e entrega.
 
-* Desenvolvimento de aplicações com **React e TypeScript**
-* Construção de APIs com **Node.js e Fastify**
-* Modelagem de dados com **Drizzle ORM e PostgreSQL**
-* Arquitetura modular, separação de responsabilidades e código sustentável
-* Experiência com autenticação, integrações externas, CI/CD e infraestrutura
-* Interesse em produtos SaaS, inteligência artificial, acessibilidade e startups
+Meu trabalho normalmente passa por:
 
----
-
-## Tecnologias
-
-<div align="center">
-
-### Frontend
-
-<img
-src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,html,css,figma"
-height="48"
-alt="TypeScript, React, Vite, Tailwind CSS, HTML, CSS e Figma"
-/>
-
-### Backend e banco de dados
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,docker"
-height="48"
-alt="Node.js, PostgreSQL, Supabase e Docker"
-/>
-
-### Ferramentas e infraestrutura
-
-<img
-src="https://skillicons.dev/icons?i=git,github,githubactions,aws,vscode"
-height="48"
-alt="Git, GitHub, GitHub Actions, AWS e Visual Studio Code"
-/>
-
-</div>
+- estratégia e arquitetura técnica de produtos SaaS
+- modelagem de domínio e regras de negócio complexas
+- desenvolvimento frontend e backend
+- APIs, autenticação, integrações e processamento de dados
+- bancos relacionais, observabilidade, testes e CI/CD
+- decisões técnicas considerando produto, custo, velocidade e manutenção
+- evolução de MVPs para bases de código capazes de crescer sem virar um incêndio organizado
 
 ---
 
-## Projetos em destaque
+## Construindo agora
+
+### Anvero
+
+**Co-Founder & CTO**
+
+A Anvero é um SaaS criado para ajudar empresas a identificar oportunidades comerciais que ficaram sem próximo passo em conversas do WhatsApp.
+
+Minha atuação envolve arquitetura do produto, domínio, backend, frontend, integrações, infraestrutura e evolução técnica da plataforma.
+
+[anvero.com.br](https://www.anvero.com.br/) · [anvero-api](https://github.com/GuilhermeBuenoReis/anvero-api)
+
+### Narvus
+
+**Tech Lead**
+
+Atuação em liderança técnica e desenvolvimento de software, contribuindo para arquitetura, qualidade de código e evolução dos produtos da empresa.
+
+---
+
+## Engenharia
 
 <table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Next.js · TypeScript · Tailwind CSS · TanStack</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · Fastify · Bun · REST APIs · Supabase</td>
+  </tr>
+  <tr>
+    <td><strong>Dados</strong></td>
+    <td>PostgreSQL · Drizzle ORM · SQL · Modelagem relacional</td>
+  </tr>
+  <tr>
+    <td><strong>Infra</strong></td>
+    <td>Docker · AWS · GitHub Actions · CI/CD · Linux</td>
+  </tr>
+  <tr>
+    <td><strong>Arquitetura</strong></td>
+    <td>DDD · Arquitetura modular · TDD · Integrações · Sistemas distribuídos</td>
+  </tr>
+</table>
+
+---
+
+## Projetos selecionados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Anvero</h3>
+      <p>
+        Plataforma SaaS para identificar oportunidades comerciais que precisam de acompanhamento em conversas do WhatsApp.
+      </p>
+      <p>
+        Projeto construído com foco em domínio, organizações, equipes, integrações, execução comercial e escalabilidade da base técnica.
+      </p>
+      <p>
+        <a href="https://www.anvero.com.br/">Produto</a>
+        ·
+        <a href="https://github.com/GuilhermeBuenoReis/anvero-api">API</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gitto</h3>
+      <p>
+        Cliente Git desktop local-first criado como alternativa enxuta para gerenciamento visual de repositórios, branches e worktrees.
+      </p>
+      <p>
+        Aplicação desktop construída com Tauri, Rust, React e TypeScript, combinando uma interface moderna com operações Git nativas.
+      </p>
+      <p>
+        <a href="https://github.com/GuilhermeBuenoReis/gitto">Ver repositório</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Tauri-111111?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>ONEC</h3>
@@ -95,88 +139,36 @@ alt="Git, GitHub, GitHub Actions, AWS e Visual Studio Code"
         Sistema empresarial para gestão de negociações, contratos, parceiros e fluxos comerciais.
       </p>
       <p>
-        Backend desenvolvido com Fastify, Drizzle ORM, PostgreSQL, autenticação JWT, testes e documentação com Swagger.
+        Backend com arquitetura organizada, autenticação JWT, PostgreSQL, testes automatizados e documentação de API.
       </p>
       <p>
-        <a href="https://github.com/GuilhermeBuenoReis/onec-backend">
-          Backend
-        </a>
+        <a href="https://github.com/GuilhermeBuenoReis/onec-backend">Backend</a>
         ·
-        <a href="https://github.com/GuilhermeBuenoReis/Onec-frellancer">
-          Frontend
-        </a>
+        <a href="https://github.com/GuilhermeBuenoReis/Onec-frellancer">Frontend</a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Fastify-111111?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
-        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=111111" alt="Drizzle ORM" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Velan</h3>
-      <p>
-        Sistema para agendamento e gerenciamento de consultas, com autenticação, perfil de usuário e integração por API.
-      </p>
-      <p>
-        Projeto construído com React, TypeScript, Laravel e arquitetura organizada em serviços e repositórios.
-      </p>
-      <p>
-        <a href="https://github.com/GuilhermeBuenoReis/velan-web">
-          Aplicação web
-        </a>
-        ·
-        <a href="https://github.com/GuilhermeBuenoReis/velan-mobile">
-          Aplicação mobile
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Buenos Cakes</h3>
-      <p>
-        Plataforma completa para uma confeitaria, separada entre aplicação web e API.
-      </p>
-      <p>
-        O projeto envolve catálogo de produtos, experiência de compra, gerenciamento de dados e integração entre frontend e backend.
-      </p>
-      <p>
-        <a href="https://github.com/GuilhermeBuenoReis/buenos_cakes_web">
-          Aplicação web
-        </a>
-        ·
-        <a href="https://github.com/GuilhermeBuenoReis/buenos_cakes_api">
-          API
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Drizzle-111111?style=flat-square&logo=drizzle&logoColor=white" alt="Drizzle ORM" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Portfólio</h3>
       <p>
-        Portfólio pessoal desenvolvido para apresentar projetos, experiência profissional e habilidades técnicas.
+        Meu espaço profissional para apresentar experiência, projetos e o trabalho que desenvolvo entre tecnologia, produto e negócios.
       </p>
       <p>
-        Construído com foco em desempenho, acessibilidade, responsividade e uma experiência visual minimalista.
+        Construído com foco em desempenho, acessibilidade, responsividade e uma experiência visual direta.
       </p>
       <p>
-        <a href="https://github.com/GuilhermeBuenoReis/portifolio-guilherme">
-          Ver repositório
-        </a>
+        <a href="https://www.devguilhermebuenoreis.com.br/">Abrir portfólio</a>
+        ·
+        <a href="https://github.com/GuilhermeBuenoReis/portifolio-guilherme">Repositório</a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
     </td>
   </tr>
@@ -184,20 +176,16 @@ alt="Git, GitHub, GitHub Actions, AWS e Visual Studio Code"
 
 ---
 
-## Atualmente
+## Como eu penso produto e tecnologia
 
-* Construindo a **Anvero**, uma plataforma SaaS para organizar oportunidades e acompanhamentos comerciais no WhatsApp
-* Evoluindo meus conhecimentos em **arquitetura de software e sistemas distribuídos**
-* Estudando **AWS, infraestrutura e microsserviços**
-* Desenvolvendo produtos com foco em problemas reais de negócio
+> Tecnologia não é o produto. É a infraestrutura que permite entregar uma solução melhor para um problema que vale a pena resolver.
+
+Eu prefiro arquiteturas simples, limites de domínio claros e decisões técnicas que façam sentido também fora do editor de código.
+
+O objetivo não é construir o sistema mais sofisticado. É construir uma base que permita **entregar rápido hoje sem impedir o produto de crescer amanhã**.
 
 ---
 
 <div align="center">
-  <p>
-    <strong>Software bom não é o que possui mais complexidade.</strong>
-  </p>
-  <p>
-    É o que resolve um problema importante sem criar cinco problemas novos.
-  </p>
+  <strong>Software · Produto · Arquitetura · SaaS · Negócios</strong>
 </div>
